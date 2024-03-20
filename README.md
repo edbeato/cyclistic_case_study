@@ -122,7 +122,11 @@ The data has been made available by Motivate International Inc. under this [lice
 
 ### Tools
 
-I decided to use
+After downloading the files for each month of 2023, the first step I took was opening each of them in Google Sheets just to get an idea of what the data looked like. Unfortunately some of the files would not open at all because they were too large. This led me to choose BigQuery as my tool to explore, clean, and analyze the data. 
+
+### Combining the Data
+
+
 
 ## 4.) ANALYZE
 
