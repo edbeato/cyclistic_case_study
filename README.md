@@ -94,21 +94,7 @@ Since the data meets all of this criteria, I can comfortably move forward knowin
 
 ### Data Location & Organization
 
-Cyclistic's historical trip data is publicly available for download and can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html). The data is stored in CSV files that are zipped where each row represents an individual bike trip and the columns indicate the following features:
-
-* ride_id,
-* rideable_type,
-* started_at,
-* ended_at,
-* start_station_name,
-* start_station_id,
-* end_station_name,
-* end_station_id,
-* start_lat,
-* start_lng,
-* end_lat,
-* end_lng,
-* member_casual
+Cyclistic's historical trip data is publicly available for download and can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html) as CSV files.
 
 ### licensing, Privacy, Security, and Accessibility
 
@@ -126,13 +112,23 @@ After downloading the files for each month of 2023, the first step I took was op
 
 ### Combining the Data
 
-Since the data was separated by month, I had to upload the it into BigQuery as twleve tables. But rather than writing queries for each month individually, I decided it would be best to create one table with all of the data. This resulted in a table with 5,719,877 rows representing all of the individual trips taken by Cyclistic users in 2023. 
-
 SQL Query: [Combined Data](https://github.com/edbeato/Cyclistic_Case_Study/blob/7fc7d0ab8c43ce7126aab12d6d10bc778824ccf0/Combined%20Data.sql)
+
+Since the data was separated by month, I had to upload the it into BigQuery as twleve tables. But rather than writing queries for each month individually, I decided it would be best to create one table with all of the data. This resulted in a table with 5,719,877 rows representing all of the individual trips taken by Cyclistic users in 2023. 
 
 ### Explore the Data
 
+SQL Query: [Data Exploration]()
 
+In order to properly clean the data I want to familiarize myself with it. Here are the observations that I made:
+
+1.) The schema tells us all of the column names and the data types. The **ride_id** is our primary key because it is distinctive for each ride. 
+
+<img width="251" alt="Screenshot 2024-03-20 at 2 24 17 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e246eda7-9276-4266-a44f-7b11ea30435e">
+
+2.) While previewing the data I saw that there were many rows with null values.
+
+3.) I want to make sure that there are no duplicates in the data.
 
 ## 4.) ANALYZE
 
