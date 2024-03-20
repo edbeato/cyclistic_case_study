@@ -1,3 +1,5 @@
+-- Combining all twelve months of data into one table
+
 CREATE TABLE `oceanic-beach-410402.Cyclistic.combined_2023` AS
   SELECT * FROM `oceanic-beach-410402.Cyclistic.January`
   UNION ALL
