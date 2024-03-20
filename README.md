@@ -122,6 +122,8 @@ The data has been made available by Motivate International Inc. under this [lice
 
 ### Tools
 
+I decided to use
+
 ## 4.) ANALYZE
 
 *In this phase*
