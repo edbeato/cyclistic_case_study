@@ -22,6 +22,8 @@ In order to do this effectively and efficiently I followed the six phases of the
 
 *In this phase my goal is to define the problem and make sure that I fully understand the stakeholder expectations.*
 
+<img width="312" alt="Screenshot 2024-03-19 at 1 34 14 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e474ed2b-7781-44e0-8ce0-7807209298d6">
+
 ### About the Company
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown
@@ -76,7 +78,9 @@ riders use Cyclistic bikes differently?**
 
 ## 2.) PREPARE
 
-*In this step, I will be preparing the data and checking its reliability using the ROCCC analysis.*
+*In this phase I will be preparing the data and checking its reliability using the ROCCC analysis.*
+
+<img width="464" alt="Screenshot 2024-03-19 at 2 51 43 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/661282cf-c4f3-4538-be7f-895f1f6aeba5">
 
 I checked to see if the data was reliable, original, comprehensive, current, and cited.
 
@@ -90,4 +94,49 @@ Since the data meets all of this criteria, I can comfortably move forward knowin
 
 ### Data Location & Organization
 
+Cyclistic's historical trip data is publicly available for download and can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html). The data is stored in CSV files that are zipped where each row represents an individual bike trip and the columns indicate the following features:
+
+* ride_id,
+* rideable_type,
+* started_at,
+* ended_at,
+* start_station_name,
+* start_station_id,
+* end_station_name,
+* end_station_id,
+* start_lat,
+* start_lng,
+* end_lat,
+* end_lng,
+* member_casual
+
+### licensing, Privacy, Security, and Accessibility
+
+The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). Privacy is preserved as no personally identifiable information is included in the data. Security will involve storing the downloaded data in a secure location. Accessibility refers to ensuring that the data and the subsequent analysis are available to all stakeholders involved in the project.
+
+## 3.) PROCESS
+
+*In this phase I will be processing and cleaning the data for exploritory data analysis.*
+
+<img width="467" alt="Screenshot 2024-03-19 at 2 54 38 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/5b61cc74-096f-4a53-a805-c61b5487291e">
+
+### Tools
+
+## 4.) ANALYZE
+
+*In this phase*
+
+<img width="465" alt="Screenshot 2024-03-19 at 1 40 38 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/821f1913-a44f-41b6-a262-ee251739926c">
+
+## 5.) SHARE
+
+*In this phase*
+
+<img width="467" alt="Screenshot 2024-03-19 at 1 42 29 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/39807eaf-324e-4699-9619-39e6c04f9a9c">
+
+## 6.) ACT
+
+*In this phase*
+
+<img width="464" alt="Screenshot 2024-03-19 at 2 49 19 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/1cdbfef3-4233-40a9-9cf0-b6ec118b94ca">
 
