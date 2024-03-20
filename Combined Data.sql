@@ -25,3 +25,8 @@ CREATE TABLE `oceanic-beach-410402.Cyclistic.combined_2023` AS
   UNION ALL
   SELECT * FROM `oceanic-beach-410402.Cyclistic.December`
   ;
+
+-- Counting the total number of rides in 2023
+
+SELECT COUNT(*) AS total_rides
+FROM `oceanic-beach-410402.Cyclistic.combined_2023`
