@@ -126,7 +126,11 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 <img width="251" alt="Screenshot 2024-03-20 at 2 24 17 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e246eda7-9276-4266-a44f-7b11ea30435e">
 
-2.) While previewing the data I saw that there were many rows with null values.
+2.) There are six columns that have a significant amount of **null values**. We will need to make a decision on what to do with this data when we clean it. 
+
+<img width="682" alt="Screenshot 2024-03-20 at 3 11 14 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/b72f9d61-626c-4910-88b0-5e151ad34114">
+<img width="498" alt="Screenshot 2024-03-20 at 3 12 22 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/f064c83a-1c38-4cec-a42b-d9d04680b7d2">
+<img width="497" alt="Screenshot 2024-03-20 at 3 12 37 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/7d69e092-2437-459c-9ece-c4e07818dece">
 
 3.) I want to make sure that there are no duplicates in the data.
 
