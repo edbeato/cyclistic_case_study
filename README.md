@@ -128,6 +128,8 @@ After downloading the files for each month of 2023, the first step I took was op
 
 Since the data was separated by month, I had to upload the it into BigQuery as twleve tables. But rather than writing queries for each month individually, I decided it would be best to create one table with all of the data. This resulted in a table with 5,719,877 rows representing all of the individual trips taken by Cyclistic users in 2023. 
 
+SQL Query: [Combined Data](Combined Data.sql)
+
 ### Explore the Data
 
 
