@@ -133,7 +133,17 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 3.) Fortunately there is no **duplicate data**. 
 
-4.) 
+4.) All of the **ride_id lengths** are the same.
+
+5.) There are three **types of bikes** that riders can choose from; classic, electric, and docked.
+
+<img width="386" alt="Screenshot 2024-03-21 at 9 34 49 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/83cd48c0-4905-4b08-bc83-140256e0c12c">
+
+6.) There are only two **types or users**, either an annual member or casual rider. 
+
+<img width="386" alt="Screenshot 2024-03-21 at 9 39 09 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/9675c8e9-abb3-4963-9d53-61e556b312f7">
+
+7.) Date
 
 ## 4.) ANALYZE
 
