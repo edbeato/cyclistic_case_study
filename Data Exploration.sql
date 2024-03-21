@@ -15,8 +15,25 @@ SELECT COUNT(*) - COUNT(ride_id) AS ride_id,
  COUNT(*) - COUNT(member_casual) AS member_casual
 FROM `oceanic-beach-410402.Cyclistic.combined_2023`
 
-
 -- Checking for duplicate data
 
 SELECT COUNT(ride_id) - COUNT(DISTINCT ride_id) AS duplicate_rows
 FROM `oceanic-beach-410402.Cyclistic.combined_2023`
+
+-- Making sure all ride_id values have the same length
+
+SELECT COUNT(ride_id), LENGTH(ride_id) AS len_ride_id
+FROM `oceanic-beach-410402.Cyclistic.combined_2023`
+GROUP BY len_ride_id
+
+-- Counting all rideable_type values
+
+SELECT COUNT(rideable_type) AS total_ride_type, rideable_type
+FROM `oceanic-beach-410402.Cyclistic.combined_2023`
+GROUP BY rideable_type
+
+-- Counting all member_casual values
+
+SELECT COUNT(member_casual) AS total_member_casual, member_casual
+FROM `oceanic-beach-410402.Cyclistic.combined_2023`
+GROUP BY member_casual
