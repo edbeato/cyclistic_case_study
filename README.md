@@ -108,7 +108,7 @@ The data has been made available by Motivate International Inc. under this [lice
 
 ### Tools
 
-After downloading the files for each month of 2023, the first step I took was opening each of them in Google Sheets just to get an idea of what the data looked like. Unfortunately some of the files would not open at all because they were too large. This led me to choose BigQuery as my tool to explore, clean, and analyze the data. 
+After downloading the files for each month of 2023, I opened each of them in Google Sheets just to get an idea of what the data looked like. Unfortunately some of the files would not open at all because they were too large. This led me to choose BigQuery as my tool to explore, clean, and analyze the data. 
 
 ### Combining the Data
 
@@ -128,11 +128,12 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 2.) There are six columns that have a significant amount of **null values**. We will need to make a decision on what to do with this data when we clean it. 
 
-<img width="682" alt="Screenshot 2024-03-20 at 3 11 14 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/b72f9d61-626c-4910-88b0-5e151ad34114">
-<img width="498" alt="Screenshot 2024-03-20 at 3 12 22 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/f064c83a-1c38-4cec-a42b-d9d04680b7d2">
-<img width="497" alt="Screenshot 2024-03-20 at 3 12 37 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/7d69e092-2437-459c-9ece-c4e07818dece">
+<img width="806" alt="Screenshot 2024-03-21 at 8 27 30 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/db0fefa5-ca8a-4eb5-8a5c-28e700fe13ea">
+<img width="869" alt="Screenshot 2024-03-21 at 8 28 58 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/47f38106-7db9-44f5-b717-204380d7fc17">
 
-3.) I want to make sure that there are no duplicates in the data.
+3.) Fortunately there is no **duplicate data**. 
+
+4.) 
 
 ## 4.) ANALYZE
 
