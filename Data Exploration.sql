@@ -14,3 +14,9 @@ SELECT COUNT(*) - COUNT(ride_id) AS ride_id,
  COUNT(*) - COUNT(end_lng) AS end_lng,
  COUNT(*) - COUNT(member_casual) AS member_casual
 FROM `oceanic-beach-410402.Cyclistic.combined_2023`
+
+
+-- Checking for duplicate data
+
+SELECT COUNT(ride_id) - COUNT(DISTINCT ride_id) AS duplicate_rows
+FROM `oceanic-beach-410402.Cyclistic.combined_2023`
