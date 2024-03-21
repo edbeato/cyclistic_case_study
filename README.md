@@ -143,7 +143,7 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 <img width="386" alt="Screenshot 2024-03-21 at 9 39 09 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/9675c8e9-abb3-4963-9d53-61e556b312f7">
 
-7.) The started_at and ended_at columns show us when the trip began and ended in a YYYY-MM-DD hh:mm:ss UTC format. Using these columns I will create the following columns that will be helpful during analysis:
+7.) The started_at and ended_at columns show us when the trip began and ended in a YYYY-MM-DD hh:mm:ss UTC format. Using these columns I will create the following **new columns** that will be helpful during analysis:
 
 * **total_duration** (in minutes)
 * **start_hour** (the hour a ride started)
