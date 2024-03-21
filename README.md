@@ -143,7 +143,26 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 <img width="386" alt="Screenshot 2024-03-21 at 9 39 09 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/9675c8e9-abb3-4963-9d53-61e556b312f7">
 
-7.) Date
+7.) The started_at and ended_at columns show us when the trip began and ended in a YYYY-MM-DD hh:mm:ss UTC format. Using these columns I will create the following columns that will be helpful during analysis:
+
+* **total_duration** (in minutes)
+* **start_hour** (the hour a ride started)
+* **end_hour** (the hour a ride ended)
+* **day_of_week** (Monday = 1, Sunday = 7)
+* **month** (January = 1, December = 12)
+
+trips longer than a day and negative trip duration??
+
+8.) The start_lat, start_lng, end_lat, end_lng give us coordinates for all of the trips. This could be helpful in creating a map for visualiztion during the SHARE phase.
+
+### Data Cleaning
+
+After exploring the data these are the steps I took to clean the data.
+
+1.) null values
+2.) remove start station id and end station id
+3.) trips that are longer than a day??
+4.) trips that have negative duration??
 
 ## 4.) ANALYZE
 
