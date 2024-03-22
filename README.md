@@ -158,15 +158,19 @@ SQL Query: [Data Cleaning](https://github.com/edbeato/Cyclistic_Case_Study/blob/
 
 After exploring the data these are the steps I took to clean the data:
 
-1.) I removed any row that included null values.
-2.) I removed remove the **start_station_id** and **end_station_id** cloumns. Those ID numbers were tied to the station names so I felt it unnecessary to have both.
+1.) I removed any row that included null values. 
+
+2.) I removed remove the **start_station_id** and **end_station_id** cloumns. Those ID numbers were tied to the station names so I felt it unnecessary to have both. 
+
 3.) I added the columns **ride_duration**, **start_hour**, **day_of_week**, and **month**.
 
 ## 4.) ANALYZE
 
-*In this phase*
+*In this phase I will be analyzing the data to find trends, patterns, and insights.*
 
 <img width="465" alt="Screenshot 2024-03-19 at 1 40 38 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/821f1913-a44f-41b6-a262-ee251739926c">
+
+
 
 ## 5.) SHARE
 
