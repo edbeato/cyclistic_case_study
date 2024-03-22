@@ -112,7 +112,7 @@ After downloading the files for each month of 2023, I opened each of them in Goo
 
 ### Combining the Data
 
-SQL Query: [Combined Data](https://github.com/edbeato/Cyclistic_Case_Study/blob/7fc7d0ab8c43ce7126aab12d6d10bc778824ccf0/Combined%20Data.sql)
+SQL Query: [Data Combining](https://github.com/edbeato/Cyclistic_Case_Study/blob/7fc7d0ab8c43ce7126aab12d6d10bc778824ccf0/Combined%20Data.sql)
 
 Since the data was separated by month, I had to upload the it into BigQuery as twleve tables. But rather than writing queries for each month individually, I decided it would be best to create one table with all of the data. This resulted in a table with 5,719,877 rows representing all of the individual trips taken by Cyclistic users in 2023. 
 
