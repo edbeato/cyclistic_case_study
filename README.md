@@ -154,12 +154,13 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 ### Data Cleaning
 
-After exploring the data these are the steps I took to clean the data.
+SQL Query: [Data Cleaning](https://github.com/edbeato/Cyclistic_Case_Study/blob/f55e64a5a6d063191ef15a2259297ae6fa23ee1c/Data%20Cleaning.sql)
 
-1.) null values
-2.) remove start station id and end station id
-3.) trips that are longer than a day??
-4.) trips that have negative duration??
+After exploring the data these are the steps I took to clean the data:
+
+1.) I removed any row that included null values.
+2.) I removed remove the **start_station_id** and **end_station_id** cloumns. Those ID numbers were tied to the station names so I felt it unnecessary to have both.
+3.) I added the columns **ride_duration**, **start_hour**, **day_of_week**, and **month**.
 
 ## 4.) ANALYZE
 
