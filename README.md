@@ -145,8 +145,8 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 7.) The started_at and ended_at columns show us when the trip began and ended in a YYYY-MM-DD hh:mm:ss UTC format. Using these columns I will create the following **new columns** that will be helpful during analysis:
 
-* **ride_duration** (in minutes)
-* **start_hour** (the hour a ride started)
+* **ride_duration**
+* **start_hour**
 * **day_of_week** (Monday = 1, Sunday = 7)
 * **month** (January = 1, December = 12)
 
