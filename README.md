@@ -147,11 +147,8 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 * **ride_duration** (in minutes)
 * **start_hour** (the hour a ride started)
-* **end_hour** (the hour a ride ended)
 * **day_of_week** (Monday = 1, Sunday = 7)
 * **month** (January = 1, December = 12)
-
-trips longer than a day and negative trip duration??
 
 8.) The start_lat, start_lng, end_lat, end_lng give us coordinates for all of the trips. This could be helpful in creating a map for visualiztion during the SHARE phase.
 
