@@ -164,6 +164,8 @@ After exploring the data these are the steps I took to clean the data:
 
 3.) I added the columns **ride_duration**, **start_hour**, **day_of_week**, and **month**.
 
+After cleaning the data, there are now 4,331,953 rows that I will use in my analysis. 
+
 ## 4.) ANALYZE
 
 *In this phase I will be analyzing the data to find trends, patterns, and insights.*
