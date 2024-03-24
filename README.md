@@ -172,7 +172,12 @@ After cleaning the data, there are now 4,331,953 rows that I will use in my anal
 
 <img width="465" alt="Screenshot 2024-03-19 at 1 40 38 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/821f1913-a44f-41b6-a262-ee251739926c">
 
+Now that the data is ready to be analyzed, it is important to refocus on the business question: **how do annual members and casual
+riders use Cyclistic bikes differently?** Answering this question will help us design marketing strategies aimed at converting casual riders into annual members.
 
+SQL Query: [Data Analysis]()
+
+1.) Let's compare the total number of rides from causal riders to annual members. 
 
 ## 5.) SHARE
 
