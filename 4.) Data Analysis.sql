@@ -87,3 +87,48 @@ GROUP BY
 ORDER BY
   count_station_name DESC
 LIMIT 10;
+
+-- 5.) Total rides per month
+
+SELECT 
+  COUNT(ride_id) AS total_rides,
+  month,
+  member_casual
+FROM
+  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
+GROUP BY
+  month,
+  member_casual
+ORDER BY 
+  member_casual,
+  total_rides DESC;
+
+-- 6.) Most popular day of the week
+
+SELECT  
+  COUNT(ride_id) AS total_rides,
+  day_of_week,
+  member_casual
+FROM
+  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
+GROUP BY
+  day_of_week,
+  member_casual
+ORDER BY
+  member_casual,
+  total_rides DESC;
+
+-- 7.) Most popular start time
+
+SELECT  
+  COUNT(ride_id) AS total_rides,
+  start_hour,
+  member_casual
+FROM
+  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
+GROUP BY
+  start_hour,
+  member_casual
+ORDER BY
+  member_casual,
+  total_rides DESC;
