@@ -57,3 +57,33 @@ GROUP BY
   member_casual, rideable_type
 ORDER BY 
   member_casual;
+
+-- Most popular starting stations for casual riders
+
+SELECT
+  start_station_name,
+  COUNT(start_station_name) AS count_station_name
+FROM  
+  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
+WHERE
+  member_casual = 'casual'
+GROUP BY 
+  start_station_name
+ORDER BY
+  count_station_name DESC
+LIMIT 10;
+
+-- Most popular starting stations for annual members
+
+SELECT
+  start_station_name,
+  COUNT(start_station_name) AS count_station_name
+FROM  
+  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
+WHERE
+  member_casual = 'member'
+GROUP BY 
+  start_station_name
+ORDER BY
+  count_station_name DESC
+LIMIT 10;
