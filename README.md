@@ -177,13 +177,22 @@ riders use Cyclistic bikes differently?** Answering this question will help us d
 
 SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/d8909e49e5f180ff244cee53e60dd376b7a19957/Data%20Analysis.sql)
 
-1.) Let's compare the total number of rides from causal riders to annual members.
+1.) The amount of rides taken by members is almost double the amount taken by casual riders. This could be because there are many more members than casual riders or it could be that members are using Cyclistic more often due to promotions, deals, or some other factor. 
 
 <img width="510" alt="Screenshot 2024-03-23 at 9 39 43 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/72e73ecc-2d6a-4591-a0d5-d17daf92caed">
 
-The amount of rides taken by members is almost double the amount taken by casual riders. This could be because there are many more members than casual riders or it could be that members are using Cyclistic more often due to promotions, deals, or some other factor. 
+2.) There are a few things that stand out when looking at the breakdown of ride type for causal riders and annual members. First is that only casual riders use docked bikes and only about 5% of the time. Also, the most used ride type for both groups is the classic bike. Casual members use them slightly more than half the time while almost two - thirds of member rides are on classic bikes. 
 
-2.) 
+<img width="510" alt="Screenshot 2024-03-23 at 10 32 49 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e689ece1-fd2b-4a88-b97d-c94ae5c895d2">
+<img width="510" alt="Screenshot 2024-03-23 at 10 33 20 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/58bf9955-0459-4bd1-89cc-6ec75cb1b715">
+
+3.) The average ride duration for casual riders is about ten minutes longer than members. 
+
+<img width="462" alt="Screenshot 2024-03-23 at 11 08 39 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/c05b0384-a783-46a6-b231-e1cec93503be">
+
+When you look at the breakdown for each ride type it is clear that this is heavily influenced by the ride duration on docked bikes. But the ride duration for the other types is still longer for casual riders as well. 
+
+<img width="663" alt="Screenshot 2024-03-23 at 11 15 19 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e3bebc33-dad9-4acd-8dee-0b018f12b450">
 
 ## 5.) SHARE
 
