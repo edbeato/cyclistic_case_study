@@ -181,7 +181,9 @@ SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/
 
 <img width="510" alt="Screenshot 2024-03-23 at 9 39 43 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/72e73ecc-2d6a-4591-a0d5-d17daf92caed">
 
+The amount of rides taken by members is almost double the amount taken by casual riders. This could be because there are many more members than casual riders or it could be that members are using Cyclistic more often due to promotions, deals, or some other factor. 
 
+2.) 
 
 ## 5.) SHARE
 
