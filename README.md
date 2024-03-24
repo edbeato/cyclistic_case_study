@@ -199,7 +199,7 @@ When you look at the breakdown for each ride type it is clear that this is heavi
 <img width="387" alt="Screenshot 2024-03-24 at 9 34 15 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/0ceb5e60-4caf-4f75-9551-edcbf32b9e80">
 <img width="385" alt="Screenshot 2024-03-24 at 9 34 44 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/2bf847a9-9509-4e27-bd37-3b9d370da674">
 
-One surprising difference is that the **two groups don't share any locations in their top ten most popular stations.** Another distinction is that **Streeter Dr & Grand Ave is by far the most popular location for casual riders**. Although annual members have a most popular location, the difference between that location and the others is not very large. **The causal riders seem to be more concentrated in terms of location where the annual members are more spread out.** 
+One surprising difference is that the **two groups don't share any locations in their top ten most popular stations.** Another distinction is that Streeter Dr & Grand Ave is by far the most popular location for casual riders. Although annual members have a most popular location, the difference between that location and the others is not very large. **The causal riders seem to be more concentrated in terms of location where the annual members are more spread out.** 
 
 5.) 
 
