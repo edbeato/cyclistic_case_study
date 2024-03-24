@@ -211,7 +211,10 @@ One surprising difference is that the **two groups don't share any locations in 
 <img width="424" alt="Screenshot 2024-03-24 at 2 42 49 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/40bc696f-833c-45b6-9ac2-bda5b61b348d">
 <img width="424" alt="Screenshot 2024-03-24 at 2 43 23 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/8debb383-bbb9-4e1e-8498-c178e7813f9a">
 
-7.) 
+7.) Both groups have their highest number of riders in the afternoon and the evening. But the **annual members do have a peak of rides at sevan and eight in the morning** while the casual riders don't seem to ride much in the morning at all. 
+
+<img width="398" alt="Screenshot 2024-03-24 at 2 59 09 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/6d8992de-292f-4d2b-8cc9-c9945359e8d8">
+<img width="398" alt="Screenshot 2024-03-24 at 3 00 36 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/012735ba-dab2-4962-94be-394e2ffff205">
 
 ## 5.) SHARE
 
