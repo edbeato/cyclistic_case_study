@@ -177,7 +177,7 @@ riders use Cyclistic bikes differently?** Answering this question will help us d
 
 SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/d8909e49e5f180ff244cee53e60dd376b7a19957/Data%20Analysis.sql)
 
-1.) The amount of **rides taken by members is almost double the amount taken by casual riders**. This could be because there are many more members than casual riders or it could be that members are using Cyclistic more often due to promotions, deals, or some other factor. 
+1.) The amount of **rides taken by members is almost double the amount taken by casual riders**.  
 
 <img width="510" alt="Screenshot 2024-03-23 at 9 39 43 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/72e73ecc-2d6a-4591-a0d5-d17daf92caed">
 
@@ -201,7 +201,17 @@ When you look at the breakdown for each ride type it is clear that this is heavi
 
 One surprising difference is that the **two groups don't share any locations in their top ten most popular stations.** Another distinction is that Streeter Dr & Grand Ave is by far the most popular location for casual riders. Although annual members have a most popular location, the difference between that location and the others is not very large. **The causal riders seem to be more concentrated in terms of location where the annual members are more spread out.** 
 
-5.) 
+5.) The trends between the groups are **similar when compaing total rides per month.** Both peak in number of rides during the summer and slow down in the winter months. 
+
+<img width="400" alt="Screenshot 2024-03-24 at 2 45 35 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/5854f381-10d1-4080-ac47-aa6119e2319c">
+<img width="400" alt="Screenshot 2024-03-24 at 2 45 52 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/7dc8c997-2f43-4c94-89c7-c5a3b0f44422">
+
+6.) **Casual riders have most of their rides on the weekend** and **annual members mostly ride during the week.** 
+
+<img width="424" alt="Screenshot 2024-03-24 at 2 42 49 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/40bc696f-833c-45b6-9ac2-bda5b61b348d">
+<img width="424" alt="Screenshot 2024-03-24 at 2 43 23 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/8debb383-bbb9-4e1e-8498-c178e7813f9a">
+
+7.) 
 
 ## 5.) SHARE
 
