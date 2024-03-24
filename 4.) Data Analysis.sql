@@ -8,3 +8,27 @@ FROM
   `oceanic-beach-410402.Cyclistic.clean_combined_2023`
 GROUP BY 
   member_casual;
+
+-- Ridetype breakdown of casual riders
+SELECT
+  COUNT(rideable_type) AS count_ride_type,
+  ROUND(COUNT(rideable_type)/1531825*100, 2) AS percent_ride_types,
+  rideable_type
+FROM
+  oceanic-beach-410402.Cyclistic.clean_combined_2023
+WHERE
+  member_casual = 'casual'
+GROUP BY
+  rideable_type;
+
+-- Ridetype breakdown of annual members
+SELECT
+  COUNT(rideable_type) AS count_ride_type,
+  ROUND(COUNT(rideable_type)/2800128*100, 2) AS percent_ride_types,
+  rideable_type
+FROM
+  oceanic-beach-410402.Cyclistic.clean_combined_2023
+WHERE
+  member_casual = 'member'
+GROUP BY
+  rideable_type;
