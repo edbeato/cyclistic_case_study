@@ -194,7 +194,12 @@ When you look at the breakdown for each ride type it is clear that this is heavi
 
 <img width="663" alt="Screenshot 2024-03-23 at 11 15 19 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e3bebc33-dad9-4acd-8dee-0b018f12b450">
 
-4.) Casual riders and annual members also rider from different locations. 
+4.) Looking at the ten most popular starting stations for casual riders and annual members reveals more differences between the groups. 
+
+<img width="387" alt="Screenshot 2024-03-24 at 9 34 15 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/0ceb5e60-4caf-4f75-9551-edcbf32b9e80">
+<img width="385" alt="Screenshot 2024-03-24 at 9 34 44 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/2bf847a9-9509-4e27-bd37-3b9d370da674">
+
+One surprising difference is that the **two groups don't share any locations in their top ten most popular stations.**
 
 ## 5.) SHARE
 
