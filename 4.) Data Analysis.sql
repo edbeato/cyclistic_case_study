@@ -58,7 +58,7 @@ GROUP BY
 ORDER BY 
   member_casual;
 
--- 5.) Most popular starting stations for casual riders
+-- 4.) Most popular starting stations for casual riders
 
 SELECT
   start_station_name,
