@@ -32,3 +32,26 @@ WHERE
   member_casual = 'member'
 GROUP BY
   rideable_type;
+
+-- Average ride duration for casual riders and annual members
+
+SELECT
+  AVG(ride_duration) AS avg_ride_duration,
+  member_casual,
+FROM
+  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
+GROUP BY 
+  member_casual;
+
+-- Average ride duration for casual riders and annual members by ride type
+
+SELECT
+  AVG(ride_duration) AS avg_ride_duration,
+  member_casual,
+  rideable_type
+FROM
+  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
+GROUP BY 
+  member_casual, rideable_type
+ORDER BY 
+  member_casual;
