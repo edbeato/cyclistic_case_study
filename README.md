@@ -194,6 +194,8 @@ When you look at the breakdown for each ride type it is clear that this is heavi
 
 <img width="663" alt="Screenshot 2024-03-23 at 11 15 19 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e3bebc33-dad9-4acd-8dee-0b018f12b450">
 
+4.) Casual riders and annual members also rider from different locations. 
+
 ## 5.) SHARE
 
 *In this phase*
