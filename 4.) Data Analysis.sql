@@ -10,6 +10,7 @@ GROUP BY
   member_casual;
 
 -- Ridetype breakdown of casual riders
+
 SELECT
   COUNT(rideable_type) AS count_ride_type,
   ROUND(COUNT(rideable_type)/1531825*100, 2) AS percent_ride_types,
@@ -22,6 +23,7 @@ GROUP BY
   rideable_type;
 
 -- Ridetype breakdown of annual members
+
 SELECT
   COUNT(rideable_type) AS count_ride_type,
   ROUND(COUNT(rideable_type)/2800128*100, 2) AS percent_ride_types,
