@@ -1,4 +1,4 @@
--- Comparing total rides for casual riders and annual members
+-- 1.) Comparing total rides for casual riders and annual members
 
 SELECT 
   COUNT(ride_id) AS total_rides,
@@ -9,7 +9,7 @@ FROM
 GROUP BY 
   member_casual;
 
--- Ridetype breakdown of casual riders
+-- 2.) Ridetype breakdown of casual riders
 
 SELECT
   COUNT(rideable_type) AS count_ride_type,
@@ -35,7 +35,7 @@ WHERE
 GROUP BY
   rideable_type;
 
--- Average ride duration for casual riders and annual members
+-- 3.) Average ride duration for casual riders and annual members
 
 SELECT
   AVG(ride_duration) AS avg_ride_duration,
@@ -58,7 +58,7 @@ GROUP BY
 ORDER BY 
   member_casual;
 
--- Most popular starting stations for casual riders
+-- 5.) Most popular starting stations for casual riders
 
 SELECT
   start_station_name,
