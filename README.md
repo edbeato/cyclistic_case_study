@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share Case Study
+# Cyclistic Bike Share Case Study
 
 ## Understanding the differences between casual riders and annual members
 
