@@ -14,6 +14,7 @@ GROUP BY
 SELECT
   COUNT(rideable_type) AS count_ride_type,
   ROUND(COUNT(rideable_type)/1531825*100, 2) AS percent_ride_types,
+  AVG(ride_duration) AS avg_ride_duration,
   rideable_type
 FROM
   oceanic-beach-410402.Cyclistic.clean_combined_2023
@@ -27,6 +28,7 @@ GROUP BY
 SELECT
   COUNT(rideable_type) AS count_ride_type,
   ROUND(COUNT(rideable_type)/2800128*100, 2) AS percent_ride_types,
+  AVG(ride_duration) AS avg_ride_duration,
   rideable_type
 FROM
   oceanic-beach-410402.Cyclistic.clean_combined_2023
@@ -63,6 +65,7 @@ ORDER BY
 SELECT
   start_station_name,
   COUNT(start_station_name) AS count_station_name,
+  AVG(ride_duration) AS avg_ride_duration,
   AVG(start_lat) AS avg_start_lat,
   AVG(start_lng) AS avg_start_lng
 FROM  
@@ -80,6 +83,7 @@ LIMIT 10;
 SELECT
   start_station_name,
   COUNT(start_station_name) AS count_station_name,
+  AVG(ride_duration) AS avg_ride_duration,
   AVG(start_lat) AS avg_start_lat,
   AVG(start_lng) AS avg_start_lng
 FROM  
@@ -96,6 +100,7 @@ LIMIT 10;
 
 SELECT 
   COUNT(ride_id) AS total_rides,
+  AVG(ride_duration) AS avg_ride_duration,
   month,
   member_casual
 FROM
@@ -111,6 +116,7 @@ ORDER BY
 
 SELECT  
   COUNT(ride_id) AS total_rides,
+  AVG(ride_duration) AS avg_ride_duration,
   day_of_week,
   member_casual
 FROM
@@ -126,6 +132,7 @@ ORDER BY
 
 SELECT  
   COUNT(ride_id) AS total_rides,
+  AVG(ride_duration) AS avg_ride_duration, 
   start_hour,
   CASE(start_hour)
     WHEN 0 THEN '12 AM'
