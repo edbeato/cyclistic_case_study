@@ -197,7 +197,8 @@ When looking more into the differences in ride type, both groups have very simil
 
 The **average ride duration of casual riders spikes on the weekend and dips down during the week,** but for members it is very consistent.
 
-
+<img width="786" alt="Screenshot 2024-04-10 at 3 27 11 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/05151059-e5bb-421f-9cbf-509894ce7ca5">
+<img width="786" alt="Screenshot 2024-04-10 at 3 27 55 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e264f9d8-579b-4aaf-8bd7-4ab13eedc033">
 
 6.) Casual riders see **a spike in average ride duration the spring time** that slowly comes back down after the summer while the annual riders have a consistent ride duration throughout the year.
 
