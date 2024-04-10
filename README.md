@@ -154,7 +154,7 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 ### Data Cleaning
 
-SQL Query: [Data Cleaning](https://github.com/edbeato/Cyclistic_Case_Study/blob/f55e64a5a6d063191ef15a2259297ae6fa23ee1c/Data%20Cleaning.sql)
+SQL Query: [Data Cleaning](https://github.com/edbeato/Cyclistic_Case_Study/blob/84ff62ba61705d8a92edc79190cd27baaf6d7982/3.%20Data%20Cleaning.sql)
 
 After exploring the data these are the steps I took to clean the data:
 
