@@ -179,7 +179,7 @@ SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/
 
 1.) The amount of **rides taken** by members is **almost double** the amount taken by casual riders.  
 
-<img width="510" alt="Screenshot 2024-03-23 at 9 39 43 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/72e73ecc-2d6a-4591-a0d5-d17daf92caed">
+<img width="403" alt="Screenshot 2024-04-10 at 3 44 25 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/a946962d-94b8-4ef7-b5ce-c34ccdfb842e">
 
 2.) The **average ride duration** for casual riders is about **ten minutes longer** than members. 
 
@@ -187,24 +187,30 @@ SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/
 
 3.) **Only casual riders use docked bikes** and **it is by far the least used ride type.** But, those that do choose docked bikes are going for **significatnly longer rides** than any other users.
 
-When looking more into the differences in ride type, both groups have very similar trends. The most used ride type for both groups is the classic bike. Casual members use them slightly more than half the time while almost two - thirds of member rides are on classic bikes. Not only is the classic bike used most often, the average ride durations on classic bikes are longer than the electric bikes for both casual riders and annual members. 
+Both groups have very similar trends with looking at the ride type breakdown. The most used ride type for both groups is the classic bike and the average ride durations on classic bikes are longer than the electric bikes for both casual riders and annual members. 
 
-<img width="786" alt="Screenshot 2024-04-10 at 10 22 41 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e5d131f3-bf99-47ee-9f5e-156a69b5de22">
+<img width="714" alt="Screenshot 2024-04-10 at 3 41 30 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/5c1a48e1-4532-4c78-b8e1-30771d8337e3">
 
 4.) Both groups have their highest number of riders in the afternoon and the evening. But the **annual members do have a peak of rides at seven and eight in the morning** while the casual riders don't seem to ride much in the morning at all. 
+
+The **average ride duration for casual riders drops considerably in the morning** while annual members are consistent throughout the day.
+
+<img width="526" alt="Screenshot 2024-04-10 at 3 58 06 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/6b8a0e7c-1bac-44bf-b5a0-b02adde4141d">
+<img width="526" alt="Screenshot 2024-04-10 at 3 59 13 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e72e89e2-e483-4104-b81d-c2cac398dbb3">
 
 5.) **Casual riders have most of their rides on the weekend** and **annual members mostly ride during the week.** 
 
 The **average ride duration of casual riders spikes on the weekend and dips down during the week,** but for members it is very consistent.
 
-<img width="786" alt="Screenshot 2024-04-10 at 3 27 11 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/05151059-e5bb-421f-9cbf-509894ce7ca5">
-<img width="786" alt="Screenshot 2024-04-10 at 3 27 55 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e264f9d8-579b-4aaf-8bd7-4ab13eedc033">
+<img width="561" alt="Screenshot 2024-04-10 at 3 52 31 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/3b31b55c-4883-48e3-9353-efac35a2933d">
+<img width="561" alt="Screenshot 2024-04-10 at 3 53 22 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/cac31182-bd05-443e-bdc7-a61bc82a4afd">
 
 6.) Casual riders see **a spike in average ride duration the spring time** that slowly comes back down after the summer while the annual riders have a consistent ride duration throughout the year.
 
 The trends between the groups are similar when compaing total rides per month. Both peak in number of rides during the summer and slow down in the winter months. 
 
-<img width="786" alt="Screenshot 2024-04-10 at 10 48 13 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/5ae8a410-cca1-4eb1-8e2a-dbe834a87691">
+<img width="527" alt="Screenshot 2024-04-10 at 4 06 57 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/96118091-c021-4326-b0dc-ad256fae1098">
+<img width="527" alt="Screenshot 2024-04-10 at 4 07 25 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/90f93277-ef34-44e2-8844-e7c76dd8283b">
 
 7.) Looking at the ten most popular starting stations for casual riders and annual members reveals more differences between the groups. 
 
