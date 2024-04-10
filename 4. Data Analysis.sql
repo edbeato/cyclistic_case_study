@@ -1,4 +1,4 @@
--- 1.) Comparing total rides for casual riders and annual members
+-- 1.) Comparing total rides
 
 SELECT 
   COUNT(ride_id) AS total_rides,
@@ -9,7 +9,7 @@ FROM
 GROUP BY 
   member_casual;
 
--- 2.) Average ride duration for casual riders and annual members
+-- 2.) Average ride duration
 
 SELECT
   AVG(ride_duration) AS avg_ride_duration,
