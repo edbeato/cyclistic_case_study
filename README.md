@@ -18,7 +18,7 @@ In order to do this effectively and efficiently I followed the six phases of the
 
 <img width="683" alt="Screenshot 2024-03-18 at 8 21 10 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/ab185071-3f6f-4e42-9a67-f94b82440c0e">
 
-## 1.) ASK
+## 1. ASK
 
 *In this phase my goal is to define the problem and make sure that I fully understand the stakeholder expectations.*
 
@@ -76,7 +76,7 @@ riders use Cyclistic bikes differently?**
 
 **Limitations:** While the dataset offers rich information about ride details, it lacks direct demographic data of users such as age, gender, or socioeconomic status. Therefore, our analysis and conclusions are drawn based on the ride patterns and cannot account for the influence of these demographic factors.
 
-## 2.) PREPARE
+## 2. PREPARE
 
 *In this phase I will be preparing the data and checking its reliability using the ROCCC analysis.*
 
@@ -100,7 +100,7 @@ Cyclistic's historical trip data is publicly available for download and can be f
 
 The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). Privacy is preserved as no personally identifiable information is included in the data. Security will involve storing the downloaded data in a secure location. Accessibility refers to ensuring that the data and the subsequent analysis are available to all stakeholders involved in the project.
 
-## 3.) PROCESS
+## 3. PROCESS
 
 *In this phase I will be processing and cleaning the data for exploritory data analysis.*
 
@@ -166,7 +166,7 @@ After exploring the data these are the steps I took to clean the data:
 
 After cleaning the data, there are now 4,331,953 rows that I will use in my analysis. 
 
-## 4.) ANALYZE
+## 4. ANALYZE
 
 *In this phase I will be analyzing the data to find trends, patterns, and insights.*
 
@@ -185,10 +185,9 @@ SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/
 
 <img width="462" alt="Screenshot 2024-03-23 at 11 08 39 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/c05b0384-a783-46a6-b231-e1cec93503be">
 
-3.) There are a few things that stand out when looking at the breakdown of ride type for causal riders and annual members: 
+3.) **Only casual riders use docked bikes** and **it is by far the least used ride type.** But, those that do choose docked bikes are going for **significatnly longer rides** than any other users.
 
-- **Only casual riders use docked bikes** and it is by far the least used bike type. But, those that do choose docked bikes are going for **significatnly longer rides** than any other users.
-- The **most used ride type for both groups is the classic bike.** Casual members use them slightly more than half the time while almost two - thirds of member rides are on classic bikes. Not only is the classic bike used most often, the **average ride durations on classic bikes are longer** than the electric bikes for both casual riders and annual members. 
+When looking more into the differences in ride type, both groups have very similar trends. The most used ride type for both groups is the classic bike. Casual members use them slightly more than half the time while almost two - thirds of member rides are on classic bikes. Not only is the classic bike used most often, the average ride durations on classic bikes are longer than the electric bikes for both casual riders and annual members. 
 
 <img width="786" alt="Screenshot 2024-04-10 at 10 22 41 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e5d131f3-bf99-47ee-9f5e-156a69b5de22">
 
@@ -196,7 +195,13 @@ SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/
 
 5.) **Casual riders have most of their rides on the weekend** and **annual members mostly ride during the week.** 
 
-6.) The trends between the groups are **similar when compaing total rides per month.** Both peak in number of rides during the summer and slow down in the winter months. The **one differece** is that the the casual riders see **a spike in average ride duration the spring time** that slowly comes back down after the summer while the annual riders have a consistent ride duration throughout the year. 
+The **average ride duration of casual riders spikes on the weekend and dips down during the week,** but for members it is very consistent.
+
+
+
+6.) Casual riders see **a spike in average ride duration the spring time** that slowly comes back down after the summer while the annual riders have a consistent ride duration throughout the year.
+
+The trends between the groups are similar when compaing total rides per month. Both peak in number of rides during the summer and slow down in the winter months. 
 
 <img width="786" alt="Screenshot 2024-04-10 at 10 48 13 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/5ae8a410-cca1-4eb1-8e2a-dbe834a87691">
 
@@ -205,13 +210,13 @@ SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/
 
 One surprising difference is that the **two groups don't share any locations in their top ten most popular stations.** Another distinction is that Streeter Dr & Grand Ave is by far the most popular location for casual riders. Although annual members have a most popular location, the difference between that location and the others is not very large. **The causal riders seem to be more concentrated in terms of location where the annual members are more spread out.** 
 
-## 5.) SHARE
+## 5. SHARE
 
 *In this phase*
 
 <img width="467" alt="Screenshot 2024-03-19 at 1 42 29 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/39807eaf-324e-4699-9619-39e6c04f9a9c">
 
-## 6.) ACT
+## 6. ACT
 
 *In this phase*
 
