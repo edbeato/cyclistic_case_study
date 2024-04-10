@@ -133,7 +133,7 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 3.) Fortunately there is no **duplicate data**. 
 
-4.) All of the **ride_id lengths** are the same.
+4.) All of the ride_id **lengths** are the same.
 
 5.) There are three **types of bikes** that riders can choose from: classic, electric, and docked.
 
