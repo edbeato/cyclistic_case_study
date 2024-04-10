@@ -118,7 +118,7 @@ Since the data was separated by month, I had to upload the it into BigQuery as t
 
 ### Explore the Data
 
-SQL Query: [Data Exploration]https://github.com/edbeato/Cyclistic_Case_Study/blob/cb71e0b0c46ed55d39aea481c5263529ba8f89d9/2.)%20Data%20Exploration.sql 
+SQL Query: [Data Exploration]()
 
 In order to properly clean the data I want to familiarize myself with it. Here are the observations that I made:
 
