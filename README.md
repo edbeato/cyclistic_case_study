@@ -96,7 +96,7 @@ Since the data meets all of this criteria, I can comfortably move forward knowin
 
 Cyclistic's historical trip data is publicly available for download and can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html) as CSV files.
 
-### licensing, Privacy, Security, and Accessibility
+### Licensing, Privacy, Security, and Accessibility
 
 The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). Privacy is preserved as no personally identifiable information is included in the data. Security will involve storing the downloaded data in a secure location. Accessibility refers to ensuring that the data and the subsequent analysis are available to all stakeholders involved in the project.
 
@@ -108,7 +108,7 @@ The data has been made available by Motivate International Inc. under this [lice
 
 ### Tools
 
-After downloading the files for each month of 2023, I opened each of them in Google Sheets just to get an idea of what the data looked like. Unfortunately some of the files would not open at all because they were too large. This led me to choose BigQuery as my tool to explore, clean, and analyze the data. Once I finished that, I used Tableau to create visualizations to effectively share my data. 
+After downloading the files for each month of 2023, I opened each of them in Google Sheets just to get an idea of what the data looked like. Unfortunately some of the files would not open at all because they were too large. This led me to choose BigQuery as my tool to explore, clean, and analyze the data. Once I finished that, I used Tableau to create visualizations to effectively share my findings. 
 
 ### Combining the Data
 
