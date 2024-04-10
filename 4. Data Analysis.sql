@@ -2,42 +2,14 @@
 
 SELECT 
   COUNT(ride_id) AS total_rides,
-  member_casual,
-  ROUND(COUNT(ride_id)/4331953*100, 2) AS percent_rides
+  ROUND(COUNT(ride_id)/4331953*100, 2) AS percent_rides,
+  member_casual
 FROM
   `oceanic-beach-410402.Cyclistic.clean_combined_2023`
 GROUP BY 
   member_casual;
 
--- 2.) Ridetype breakdown of casual riders
-
-SELECT
-  COUNT(rideable_type) AS count_ride_type,
-  ROUND(COUNT(rideable_type)/1531825*100, 2) AS percent_ride_types,
-  AVG(ride_duration) AS avg_ride_duration,
-  rideable_type
-FROM
-  oceanic-beach-410402.Cyclistic.clean_combined_2023
-WHERE
-  member_casual = 'casual'
-GROUP BY
-  rideable_type;
-
--- Ridetype breakdown of annual members
-
-SELECT
-  COUNT(rideable_type) AS count_ride_type,
-  ROUND(COUNT(rideable_type)/2800128*100, 2) AS percent_ride_types,
-  AVG(ride_duration) AS avg_ride_duration,
-  rideable_type
-FROM
-  oceanic-beach-410402.Cyclistic.clean_combined_2023
-WHERE
-  member_casual = 'member'
-GROUP BY
-  rideable_type;
-
--- 3.) Average ride duration for casual riders and annual members
+-- 2.) Average ride duration for casual riders and annual members
 
 SELECT
   AVG(ride_duration) AS avg_ride_duration,
@@ -47,20 +19,70 @@ FROM
 GROUP BY 
   member_casual;
 
--- Average ride duration for casual riders and annual members by ride type
+-- 3.) Ridetype breakdown
 
 SELECT
+  rideable_type,
+  COUNT(rideable_type) AS count_ride_type,
   AVG(ride_duration) AS avg_ride_duration,
-  member_casual,
-  rideable_type
+  member_casual
+FROM
+  oceanic-beach-410402.Cyclistic.clean_combined_2023
+GROUP BY
+  rideable_type,
+  member_casual
+ORDER BY
+  rideable_type;
+
+-- 4.) Total rides per month
+
+SELECT 
+  month,
+  COUNT(ride_id) AS total_rides,
+  AVG(ride_duration) AS avg_ride_duration,
+  member_casual
 FROM
   `oceanic-beach-410402.Cyclistic.clean_combined_2023`
-GROUP BY 
-  member_casual, rideable_type
+GROUP BY
+  month,
+  member_casual
 ORDER BY 
-  member_casual;
+  member_casual,
+  total_rides DESC;
 
--- 4.) Most popular starting stations for casual riders
+-- 5.) Most popular day of the week
+
+SELECT  
+  day_of_week,
+  COUNT(ride_id) AS total_rides,
+  AVG(ride_duration) AS avg_ride_duration,
+  member_casual
+FROM
+  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
+GROUP BY
+  day_of_week,
+  member_casual
+ORDER BY
+  member_casual,
+  total_rides DESC;
+
+-- 6.) Most popular start time
+
+SELECT  
+  start_hour,
+  COUNT(ride_id) AS total_rides,
+  AVG(ride_duration) AS avg_ride_duration, 
+  member_casual
+FROM
+  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
+GROUP BY
+  start_hour,
+  member_casual
+ORDER BY
+  member_casual,
+  total_rides DESC;
+
+-- 7.) Most popular starting stations for casual riders
 
 SELECT
   start_station_name,
@@ -95,51 +117,3 @@ GROUP BY
 ORDER BY
   count_station_name DESC
 LIMIT 10;
-
--- 5.) Total rides per month
-
-SELECT 
-  COUNT(ride_id) AS total_rides,
-  AVG(ride_duration) AS avg_ride_duration,
-  month,
-  member_casual
-FROM
-  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
-GROUP BY
-  month,
-  member_casual
-ORDER BY 
-  member_casual,
-  total_rides DESC;
-
--- 6.) Most popular day of the week
-
-SELECT  
-  COUNT(ride_id) AS total_rides,
-  AVG(ride_duration) AS avg_ride_duration,
-  day_of_week,
-  member_casual
-FROM
-  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
-GROUP BY
-  day_of_week,
-  member_casual
-ORDER BY
-  member_casual,
-  total_rides DESC;
-
--- 7.) Most popular start time
-
-SELECT  
-  COUNT(ride_id) AS total_rides,
-  AVG(ride_duration) AS avg_ride_duration, 
-  start_hour,
-  member_casual
-FROM
-  `oceanic-beach-410402.Cyclistic.clean_combined_2023`
-GROUP BY
-  start_hour,
-  member_casual
-ORDER BY
-  member_casual,
-  total_rides DESC;
