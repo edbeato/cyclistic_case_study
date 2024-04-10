@@ -34,19 +34,19 @@ GROUP BY
 ORDER BY
   rideable_type;
 
--- 4.) Total rides per month
+-- 4.) Most popular start time
 
-SELECT 
-  month,
+SELECT  
+  start_hour,
   COUNT(ride_id) AS total_rides,
-  AVG(ride_duration) AS avg_ride_duration,
+  AVG(ride_duration) AS avg_ride_duration, 
   member_casual
 FROM
   `oceanic-beach-410402.Cyclistic.clean_combined_2023`
 GROUP BY
-  month,
+  start_hour,
   member_casual
-ORDER BY 
+ORDER BY
   member_casual,
   total_rides DESC;
 
@@ -66,19 +66,19 @@ ORDER BY
   member_casual,
   total_rides DESC;
 
--- 6.) Most popular start time
+-- 6.) Total rides per month
 
-SELECT  
-  start_hour,
+SELECT 
+  month,
   COUNT(ride_id) AS total_rides,
-  AVG(ride_duration) AS avg_ride_duration, 
+  AVG(ride_duration) AS avg_ride_duration,
   member_casual
 FROM
   `oceanic-beach-410402.Cyclistic.clean_combined_2023`
 GROUP BY
-  start_hour,
+  month,
   member_casual
-ORDER BY
+ORDER BY 
   member_casual,
   total_rides DESC;
 
