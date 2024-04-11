@@ -233,19 +233,20 @@ In order to effectively communicate my findings to the key stakeholders, I creat
 
 [Cyclistic Bike Share: Casual Riders vs Annual Members]()
 
-After viewing the data, here is a summary of the differences between casual riders and annual members:
+After viewing the data, here is a summary of **the differences between casual riders and annual members:**
 
 - casual riders spend more time on their trips than annual members do
 - only casual riders use docked bikes
 - docked bikes are used for very long rides
 - casual riders use the bikes recreationally, not for commuting 
 - casual riders use the bikes more often in warmer weather
-- most casual riders start from the Streeter Drive & Grand Avenue station
-
+- most casual riders start from a few popular stations
+  
 ## 6 - ACT
 
 *In this phase share my recommendations based on the results.*
 
 <img width="464" alt="Screenshot 2024-03-19 at 2 49 19 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/1cdbfef3-4233-40a9-9cf0-b6ec118b94ca">
 
-Our goal is to use this knowledge to make business decisions that will drive more casual riders to become annual members. Here are my recommendations to accomplish this:
+Our goal is to **design marketing strategies aimed at converting casual riders into
+annual members.** The data has shown us the many differences in how casual riders use Cyclistic compared to annual members
