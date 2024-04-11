@@ -253,7 +253,9 @@ Our goal is to **design marketing strategies aimed at converting casual riders i
 **1.) Targeted marketing campaigns at popular stations**
    - Casual riders tend to concentrate at certain locations. Focusing marketing efforts at those locations would be a very efficient way to
      reach as many casual riders as possible.
+     
 **2.) Launching marketing campaigns during the spring**
    - The number or casual riders significantly increases during the spring months and peaks in the summer. If we launch our campaigns            during these times we will maximize our advertising.
+     
 **3.) Creating different rider packages**
-   - 
+   - jkh
