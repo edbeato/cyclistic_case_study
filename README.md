@@ -209,7 +209,7 @@ The **average ride duration of casual riders spikes on the weekend and dips down
 
 6.) Casual riders see **a spike in average ride duration the spring months** that slowly comes back down after the summer while the annual riders have a consistent ride duration throughout the year.
 
-When looking at the total rides per month we see similar trends. Both peak in number of rides during the summer and slow down in the winter months. 
+When looking at the total rides per month we see similar trends. Both peak in number of rides during the summer and slow down in the winter months. But **the number of rides increases at a higher rate for casual riders as the months get warmer.**
 
 <img width="423" alt="Screenshot 2024-04-11 at 10 24 18 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/f36e7175-34b0-4388-b124-d7762eb1e16f">
 <img width="423" alt="Screenshot 2024-04-11 at 10 29 11 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e8cc0c2a-09a0-4357-b388-a21de6d7f2e0">
@@ -235,7 +235,12 @@ In order to effectively communicate my findings to the key stakeholders, I creat
 
 After viewing the data, here is a summary of the differences between casual riders and annual members:
 
-- 
+- casual riders spend more time on their trips than annual members do
+- only casual riders use docked bikes
+- docked bikes are used for very long rides
+- casual riders use the bikes recreationally, not for commuting 
+- casual riders use the bikes more often in warmer weather
+- most casual riders start from the Streeter Drive & Grand Avenue station
 
 ## 6 - ACT
 
