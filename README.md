@@ -233,9 +233,14 @@ In order to effectively communicate my findings to the key stakeholders, I creat
 
 [Cyclistic Bike Share: Casual Riders vs Annual Members]()
 
+After viewing the data, here is a summary of the differences between casual riders and annual members:
+
+- 
+
 ## 6 - ACT
 
 *In this phase*
 
 <img width="464" alt="Screenshot 2024-03-19 at 2 49 19 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/1cdbfef3-4233-40a9-9cf0-b6ec118b94ca">
 
+Our goal is to use this knowledge to make business decisions that will drive more casual riders to become annual members. Here are my recommendations to accomplish this:
