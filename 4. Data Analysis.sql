@@ -23,7 +23,7 @@ GROUP BY
 
 SELECT
   rideable_type,
-  COUNT(rideable_type) AS count_ride_type,
+  COUNT(rideable_type) AS total_rides,
   AVG(ride_duration) AS avg_ride_duration,
   member_casual
 FROM
@@ -86,10 +86,8 @@ ORDER BY
 
 SELECT
   start_station_name,
-  COUNT(start_station_name) AS count_station_name,
-  AVG(ride_duration) AS avg_ride_duration,
-  AVG(start_lat) AS avg_start_lat,
-  AVG(start_lng) AS avg_start_lng
+  COUNT(start_station_name) AS total_rides,
+  AVG(ride_duration) AS avg_ride_duration
 FROM  
   `oceanic-beach-410402.Cyclistic.clean_combined_2023`
 WHERE
@@ -97,17 +95,15 @@ WHERE
 GROUP BY 
   start_station_name
 ORDER BY
-  count_station_name DESC
+  total_rides DESC
 LIMIT 10;
 
 -- Most popular starting stations for annual members
 
 SELECT
   start_station_name,
-  COUNT(start_station_name) AS count_station_name,
-  AVG(ride_duration) AS avg_ride_duration,
-  AVG(start_lat) AS avg_start_lat,
-  AVG(start_lng) AS avg_start_lng
+  COUNT(start_station_name) AS total_rides,
+  AVG(ride_duration) AS avg_ride_duration
 FROM  
   `oceanic-beach-410402.Cyclistic.clean_combined_2023`
 WHERE
@@ -115,5 +111,5 @@ WHERE
 GROUP BY 
   start_station_name
 ORDER BY
-  count_station_name DESC
+  total_rides DESC
 LIMIT 10;
