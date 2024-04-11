@@ -18,7 +18,7 @@ In order to do this effectively and efficiently I followed the six phases of the
 
 <img width="683" alt="Screenshot 2024-03-18 at 8 21 10 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/ab185071-3f6f-4e42-9a67-f94b82440c0e">
 
-## 1. ASK
+## 1 - ASK
 
 *In this phase my goal is to define the problem and make sure that I fully understand the stakeholder expectations.*
 
@@ -76,7 +76,7 @@ riders use Cyclistic bikes differently?**
 
 **Limitations:** While the dataset offers rich information about ride details, it lacks direct demographic data of users such as age, gender, or socioeconomic status. Therefore, our analysis and conclusions are drawn based on the ride patterns and cannot account for the influence of these demographic factors.
 
-## 2. PREPARE
+## 2 - PREPARE
 
 *In this phase I will be preparing the data and checking its reliability using the ROCCC analysis.*
 
@@ -100,7 +100,7 @@ Cyclistic's historical trip data is publicly available for download and can be f
 
 The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). Privacy is preserved as no personally identifiable information is included in the data. Security will involve storing the downloaded data in a secure location. Accessibility refers to ensuring that the data and the subsequent analysis are available to all stakeholders involved in the project.
 
-## 3. PROCESS
+## 3 - PROCESS
 
 *In this phase I will be processing and cleaning the data for exploritory data analysis.*
 
@@ -166,7 +166,7 @@ After exploring the data these are the steps I took to clean the data:
 
 After cleaning the data, there are now 4,331,953 rows that I will use in my analysis. 
 
-## 4. ANALYZE
+## 4 - ANALYZE
 
 *In this phase I will be analyzing the data to find trends, patterns, and insights.*
 
@@ -195,8 +195,10 @@ Both groups have very similar trends with looking at the ride type breakdown. Th
 
 The **average ride duration for casual riders drops considerably in the morning** while annual members are consistent throughout the day.
 
-<img width="526" alt="Screenshot 2024-04-10 at 3 58 06 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/6b8a0e7c-1bac-44bf-b5a0-b02adde4141d">
-<img width="526" alt="Screenshot 2024-04-10 at 3 59 13 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e72e89e2-e483-4104-b81d-c2cac398dbb3">
+<img width="445" alt="Screenshot 2024-04-11 at 10 43 00 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/cafdbcd0-cf3f-463e-9040-acd473ba5313">
+<img width="445" alt="Screenshot 2024-04-11 at 10 43 42 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/b24e0004-5af4-4308-81af-d88c2e2e9a86">
+<img width="445" alt="Screenshot 2024-04-11 at 10 44 14 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/c20949a1-5646-46c5-b704-7cea957f8c3c">
+<img width="445" alt="Screenshot 2024-04-11 at 10 45 23 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/27acbaf2-298f-4f21-b20f-6a3c094f7c28">
 
 5.) **Casual riders have most of their rides on the weekend** and **annual members mostly ride during the week.** 
 
@@ -214,16 +216,18 @@ When looking at the total rides per month we see similar trends. Both peak in nu
 
 7.) Looking at the ten most popular starting stations for casual riders and annual members reveals more differences between the groups. 
 
+One surprising difference is that the **two groups don't share any locations in their top ten most popular stations.** Another distinction is that Streeter Dr & Grand Ave is **by far the most popular location for casual riders.** Although annual members have a most popular location, the difference between that location and the others is not very large. **The causal riders seem to be more concentrated in terms of location where the annual members are more evenly dispersed.** 
 
-One surprising difference is that the **two groups don't share any locations in their top ten most popular stations.** Another distinction is that Streeter Dr & Grand Ave is by far the most popular location for casual riders. Although annual members have a most popular location, the difference between that location and the others is not very large. **The causal riders seem to be more concentrated in terms of location where the annual members are more spread out.** 
+<img width="389" alt="Screenshot 2024-04-11 at 11 04 41 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/93277c1c-f100-46ef-b8d4-56c18dab48f1">
+<img width="392" alt="Screenshot 2024-04-11 at 11 02 03 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/281eabc7-9a1f-40db-98d6-46893c27633e">
 
-## 5. SHARE
+## 5 - SHARE
 
 *In this phase*
 
 <img width="467" alt="Screenshot 2024-03-19 at 1 42 29 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/39807eaf-324e-4699-9619-39e6c04f9a9c">
 
-## 6. ACT
+## 6 - ACT
 
 *In this phase*
 
