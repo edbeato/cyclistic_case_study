@@ -223,11 +223,15 @@ One surprising difference is that the **two groups don't share any locations in 
 
 ## 5 - SHARE
 
-*In this phase I will share my data to my audience through visualizations and a presentation.*
+*In this phase I will share the data to my audience through visualizations and a presentation.*
 
 <img width="467" alt="Screenshot 2024-03-19 at 1 42 29 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/39807eaf-324e-4699-9619-39e6c04f9a9c">
 
+In order to effectively communicate my findings to the key stakeholders, I created two tools:
 
+[Tableau Dashboard](https://public.tableau.com/views/CyclisticBikeShare-CasualRidersvsAnnualMembers/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+[Cyclistic Bike Share: Casual Riders vs Annual Members]()
 
 ## 6 - ACT
 
