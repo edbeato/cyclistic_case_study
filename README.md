@@ -189,6 +189,7 @@ SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/
 
 Both groups have very similar trends with looking at the ride type breakdown. The most used ride type for both groups is the classic bike and the average ride durations on classic bikes are longer than the electric bikes for both casual riders and annual members. 
 
+<img width="447" alt="Screenshot 2024-04-11 at 11 09 23 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/88eb3e8f-7e83-4b89-ba51-188a6cfe810f">
 
 4.) Both groups have their highest number of riders in the afternoon and the evening. But the **annual members do have a peak of rides at seven and eight in the morning** while the casual riders don't seem to ride much in the morning at all. 
 
