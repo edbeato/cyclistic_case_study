@@ -218,6 +218,8 @@ When looking at the total rides per month we see similar trends. Both peak in nu
 
 One surprising difference is that the **two groups don't share any locations in their top ten most popular stations.** Another distinction is that Streeter Dr & Grand Ave is **by far the most popular location for casual riders.** Although annual members have a most popular location, the difference between that location and the others is not very large. **The causal riders seem to be more concentrated in terms of location where the annual members are more evenly dispersed.** 
 
+<img width="389" alt="Screenshot 2024-04-11 at 11 04 41 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/256f37c9-7611-492f-8ea9-0fe5c960e60c">
+<img width="392" alt="Screenshot 2024-04-11 at 11 02 03 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/3044148f-02e7-4e4d-8d15-98519d1e5d83">
 
 ## 5 - SHARE
 
