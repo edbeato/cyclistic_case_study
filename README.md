@@ -244,7 +244,7 @@ After viewing the data, here is a summary of the differences between casual ride
 
 ## 6 - ACT
 
-*In this phase*
+*In this phase share my recommendations based on the results.*
 
 <img width="464" alt="Screenshot 2024-03-19 at 2 49 19 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/1cdbfef3-4233-40a9-9cf0-b6ec118b94ca">
 
