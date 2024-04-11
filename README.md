@@ -202,15 +202,15 @@ The **average ride duration for casual riders drops considerably in the morning*
 
 The **average ride duration of casual riders spikes on the weekend and dips down during the week,** but for members it is very consistent.
 
-<img width="561" alt="Screenshot 2024-04-10 at 3 52 31 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/3b31b55c-4883-48e3-9353-efac35a2933d">
-<img width="561" alt="Screenshot 2024-04-10 at 3 53 22 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/cac31182-bd05-443e-bdc7-a61bc82a4afd">
+<img width="455" alt="Screenshot 2024-04-11 at 10 31 32 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/1dbfa080-3dbc-4702-89bc-bff6bfbf97f2">
+<img width="452" alt="Screenshot 2024-04-11 at 10 33 06 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/c1c9cfc4-9830-4d9e-8fa2-b72d19e33eed">
 
-6.) Casual riders see **a spike in average ride duration the spring time** that slowly comes back down after the summer while the annual riders have a consistent ride duration throughout the year.
+6.) Casual riders see **a spike in average ride duration the spring months** that slowly comes back down after the summer while the annual riders have a consistent ride duration throughout the year.
 
-The trends between the groups are similar when compaing total rides per month. Both peak in number of rides during the summer and slow down in the winter months. 
+When looking at the total rides per month we see similar trends. Both peak in number of rides during the summer and slow down in the winter months. 
 
-<img width="527" alt="Screenshot 2024-04-10 at 4 06 57 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/96118091-c021-4326-b0dc-ad256fae1098">
-<img width="527" alt="Screenshot 2024-04-10 at 4 07 25 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/90f93277-ef34-44e2-8844-e7c76dd8283b">
+<img width="423" alt="Screenshot 2024-04-11 at 10 24 18 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/f36e7175-34b0-4388-b124-d7762eb1e16f">
+<img width="423" alt="Screenshot 2024-04-11 at 10 29 11 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e8cc0c2a-09a0-4357-b388-a21de6d7f2e0">
 
 7.) Looking at the ten most popular starting stations for casual riders and annual members reveals more differences between the groups. 
 
