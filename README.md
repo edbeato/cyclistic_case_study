@@ -70,12 +70,6 @@ Three questions will guide the future marketing program:
 Moreno has **assigned you** the first question to answer: **How do annual members and casual
 riders use Cyclistic bikes differently?**
 
-### Assumptions and Limitations
-
-**Assumptions:** We are operating under the assumption that the provided data is accurate, up-to-date, and representative of the larger rider population. We also assume that the riders' behaviors are largely influenced by their status as casual riders or annual members, not by other unrecorded factors.
-
-**Limitations:** While the dataset offers rich information about ride details, it lacks direct demographic data of users such as age, gender, or socioeconomic status. Therefore, our analysis and conclusions are drawn based on the ride patterns and cannot account for the influence of these demographic factors.
-
 ## 2 - PREPARE
 
 *In this phase I will be preparing the data and checking its reliability using the ROCCC analysis.*
