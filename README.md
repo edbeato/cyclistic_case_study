@@ -67,7 +67,7 @@ Three questions will guide the future marketing program:
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
    
-**Moreno has assigned you the first question to answer: How do annual members and casual
+Moreno has **assigned you** the first question to answer: **How do annual members and casual
 riders use Cyclistic bikes differently?**
 
 ### Assumptions and Limitations
