@@ -259,9 +259,10 @@ Our goal is to **design marketing strategies aimed at converting casual riders i
 
 **3.) Host events promoting recreational riding**
    - It is evident that casual riders like to use our bikes recreationally. Hosting different events like fundraisers or friendly       
-     competitions will allow causal riders to relate more to the company, making it more likely that they will invest in membership. We 
-     could also use these events to promote membership by providing incentives four annual members.
+     competitions will allow causal riders to relate more to the company, making it more likely that they will invest in membership.
+     Also, these events are best suited for the weekends when most of our casual riders are using the bikes already and we 
+     could use this time to promote membership by providing incentives four annual members.
      
-**4.) Creating a seasonal rider package**
+**4.) Create a seasonal rider package**
    - One of the reasons why casual riders aren't buying annual memberships may be due to seasonal riding. But if there are promotions for 
-     memberhsips that only last certain seasons, then they may be more interested.
+     memberships that only last for certain seasons, then they may be more interested.
