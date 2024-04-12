@@ -248,14 +248,20 @@ After viewing the data, here is a summary of **the differences between casual ri
 
 <img width="464" alt="Screenshot 2024-03-19 at 2 49 19 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/1cdbfef3-4233-40a9-9cf0-b6ec118b94ca">
 
-Our goal is to **design marketing strategies aimed at converting casual riders into annual members.** The data has shown us unique trends and patterns for casual riders. Based on these insights, here are my recommendations for the marketing team:
+Our goal is to **design marketing strategies aimed at converting casual riders into annual members.** The data has shown us unique trends and patterns for casual riders. Based on these insights, here are my recommendations:
 
 **1.) Targeted marketing campaigns at popular stations**
    - Casual riders tend to concentrate at certain locations. Focusing marketing efforts at those locations would be a very efficient way to
      reach as many casual riders as possible.
      
-**2.) Launching marketing campaigns during the spring**
-   - The number or casual riders significantly increases during the spring months and peaks in the summer. If we launch our campaigns            during these times we will maximize our advertising.
+**2.) Spring and summer promotions**
+   - The number or casual riders significantly increases during the spring months and peaks during the summer. If we offer promotions for        annual membership during these times we are more likely to attract casual riders. 
+
+**3.) Host events promoting recreational riding**
+   - It is evident that casual riders like to use our bikes recreationally. Hosting different events like fundraisers or friendly       
+     competitions will allow causal riders to relate more to the company, making it more likely that they will invest in membership. We 
+     could also use these events to promote membership by providing incentives four annual members.
      
-**3.) Creating different rider packages**
-   - jkh
+**4.) Creating a seasonal rider package**
+   - One of the reasons why casual riders aren't buying annual memberships may be due to seasonal riding. But if there are promotions for 
+     memberhsips that only last certain seasons, then they may be more interested.
