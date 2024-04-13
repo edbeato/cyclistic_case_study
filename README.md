@@ -225,7 +225,7 @@ In order to effectively communicate my findings to the key stakeholders, I creat
 
 [Tableau Dashboard](https://public.tableau.com/views/CyclisticBikeShare-CasualRidersvsAnnualMembers/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-[Cyclistic Bike Share: Casual Riders vs Annual Members]()
+[Cyclistic Bike Share: Casual Riders vs Annual Members](https://docs.google.com/presentation/d/1iQAfHidVxcwEAmm23cuuQtC6bDKkTiCJvgWW0uNG9JU/edit?usp=sharing)
 
 After viewing the data, here is a summary of **the differences between casual riders and annual members:**
 
