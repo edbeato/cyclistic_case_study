@@ -257,10 +257,10 @@ Our goal is to **design marketing strategies aimed at converting casual riders i
      Also, these events are best suited for the weekends when most of our casual riders are using the bikes already and we 
      could use this time to promote membership by providing incentives four annual members.
 
-**4.) Create a weekend rider package**
+**4.) Weekend membership**
    - If a casual rider is only using our bikes on the weekends, they may not want to spend money on a full membership. But if there        
      was a discounted membership that only provided them with weekend use, they may be more interested. 
      
-**5.) Create a seasonal rider package**
+**5.) Seasonal memberships**
    - Similarly, if a casual rider is only using the bikes during the spring and summer months, they may not want to pay for an annual
      memberhsip but a seasonal membership could be more attractive. 
