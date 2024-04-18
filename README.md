@@ -187,13 +187,13 @@ riders use Cyclistic bikes differently?** Answering this question will help us d
 
 <img width="462" alt="Screenshot 2024-03-23 at 11 08 39 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/c05b0384-a783-46a6-b231-e1cec93503be">
 
-3.) **Only casual riders use docked bikes** and **it is by far the least used ride type.** But, those that do choose docked bikes are going for **significatnly longer rides** than any other users.
+3.) **Only casual riders use docked bikes** and **it is by far the least used ride type.** But, those that do choose docked bikes are going for **significantly longer rides** than any other users.
 
-Both groups have very similar trends with looking at the ride type breakdown. The most used ride type for both groups is the classic bike and the average ride durations on classic bikes are longer than the electric bikes for both casual riders and annual members. 
+The most used ride type for both groups is the classic bike and the average ride durations on classic bikes are longer than the electric bikes for both casual riders and annual members. 
 
 <img width="447" alt="Screenshot 2024-04-11 at 11 09 23 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/88eb3e8f-7e83-4b89-ba51-188a6cfe810f">
 
-4.) Both groups have their highest number of riders in the afternoon and the evening. But the **annual members do have a peak of rides at seven and eight in the morning** while the casual riders don't seem to ride much in the morning at all. 
+4.) Both groups have their highest number of riders in the afternoon and the evening. But the **annual members do have a peak of rides at seven and eight in the morning** while the casual riders don't ride much in the morning. 
 
 The **average ride duration for casual riders drops considerably in the morning** while annual members are consistent throughout the day.
 
@@ -211,7 +211,7 @@ The **average ride duration of casual riders spikes on the weekend and dips down
 
 6.) Casual riders see **a spike in average ride duration the spring months** that slowly comes back down after the summer while the annual riders have a consistent ride duration throughout the year.
 
-When looking at the total rides per month we see similar trends. Both peak in number of rides during the summer and slow down in the winter months. But **the number of rides increases at a higher rate for casual riders as the months get warmer.**
+Both peak in number of rides during the summer and slow down in the winter months. But **the number of rides increases at a higher rate for casual riders as the months get warmer.**
 
 <img width="423" alt="Screenshot 2024-04-11 at 10 24 18 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/f36e7175-34b0-4388-b124-d7762eb1e16f">
 <img width="423" alt="Screenshot 2024-04-11 at 10 29 11 AM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/e8cc0c2a-09a0-4357-b388-a21de6d7f2e0">
@@ -253,11 +253,11 @@ After viewing the data, here is a summary of **the differences between casual ri
 Our goal is to **design marketing strategies aimed at converting casual riders into annual members.** The data has shown us unique trends and patterns for casual riders. Based on these insights, here are my recommendations:
 
 **1.) Targeted marketing campaigns at popular stations**
-   - Casual riders tend to concentrate at certain locations. Focusing marketing efforts at those locations would be a very efficient way to
+   - Casual riders tend to concentrate at certain locations. Focusing marketing efforts at those locations would be an efficient way to
      reach as many casual riders as possible.
      
 **2.) Spring and summer promotions**
-   - The number or casual riders significantly increases during the spring months and peaks during the summer. If we offer promotions for        annual membership during these times we are more likely to attract casual riders. 
+   - The number or casual riders significantly increases during the spring months and peaks during the summer. If we offer promotions for annual membership during these times we are        more likely to convert casual riders to annual members. 
 
 **3.) Host events promoting recreational riding**
    - It is evident that casual riders like to use our bikes recreationally. Hosting different events like fundraisers or friendly       
