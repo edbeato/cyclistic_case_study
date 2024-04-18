@@ -114,13 +114,13 @@ After downloading the files for each month of 2023, I opened each of them in Goo
 
 ### Combining the Data
 
-SQL Query: [Data Combining](https://github.com/edbeato/Cyclistic_Case_Study/blob/e2617bf161692726bfd5974cc503644590291e6c/1%20-%20Data%20Combining.sql)
+*SQL Query: [Data Combining](https://github.com/edbeato/Cyclistic_Case_Study/blob/e2617bf161692726bfd5974cc503644590291e6c/1%20-%20Data%20Combining.sql)*
 
 Since the data was separated by month, I had to upload the it into BigQuery as twleve tables. But rather than writing queries for each month individually, I decided it would be best to create one table with all of the data. This resulted in a table with 5,719,877 rows representing all of the individual trips taken by Cyclistic users in 2023. 
 
 ### Explore the Data
 
-SQL Query: [Data Exploration](https://github.com/edbeato/Cyclistic_Case_Study/blob/bee04d97adcb51884dd2da881d8a93ef345d419f/2%20-%20Data%20Exploration.sql)
+*SQL Query: [Data Exploration](https://github.com/edbeato/Cyclistic_Case_Study/blob/bee04d97adcb51884dd2da881d8a93ef345d419f/2%20-%20Data%20Exploration.sql)*
 
 In order to properly clean the data I want to familiarize myself with it. Here are the observations that I made:
 
@@ -156,7 +156,7 @@ In order to properly clean the data I want to familiarize myself with it. Here a
 
 ### Data Cleaning
 
-SQL Query: [Data Cleaning](https://github.com/edbeato/Cyclistic_Case_Study/blob/cd36e233560b747e9ee7c4aafacc23e827cbde1f/3%20-%20Data%20Cleaning.sql)
+*SQL Query: [Data Cleaning](https://github.com/edbeato/Cyclistic_Case_Study/blob/cd36e233560b747e9ee7c4aafacc23e827cbde1f/3%20-%20Data%20Cleaning.sql)*
 
 After exploring the data these are the steps I took to clean the data:
 
@@ -177,7 +177,7 @@ After cleaning the data, there are now 4,331,953 rows that I will use in my anal
 Now that the data is ready to be analyzed, it is important to refocus on the business question: **how do annual members and casual
 riders use Cyclistic bikes differently?** Answering this question will help us design marketing strategies aimed at converting casual riders into annual members.
 
-SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/7358a71f9e24466fbc8516eddbe0b739cda0639c/4%20-%20Data%20Analysis.sql)
+*SQL Query: [Data Analysis](https://github.com/edbeato/Cyclistic_Case_Study/blob/7358a71f9e24466fbc8516eddbe0b739cda0639c/4%20-%20Data%20Analysis.sql)*
 
 1.) The amount of **rides taken** by members is **almost double** the amount taken by casual riders.  
 
