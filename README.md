@@ -4,8 +4,7 @@
 
 ### Summary
 
-In this case study, I analyze data from a Chicago based bike share company in order to identify trends in how their customers use bikes differently. Below you will find a full report detailing my findings as I followed the data analysis process: Ask, Prepare, Process,
-Analyze, Share, and Act. I also created a Tableau dashboard and a presentation for the stakeholders involved that summarize my findings.
+In this case study, I analyze data from a Chicago based bike share company in order to identify trends in how their customers use bikes differently. Below you will find a full report where I followed the data analysis process: ask, prepare, process, analyze, share, and act. I also created a Tableau dashboard and a presentation for the stakeholders that summarize my findings.
 
 [Tableau Dashboard: Casual Riders vs Annual Members](https://public.tableau.com/views/CyclisticBikeShare-CasualRidersvsAnnualMembers/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
