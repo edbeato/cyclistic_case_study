@@ -257,13 +257,14 @@ Our goal is to **design marketing strategies aimed at converting casual riders i
      reach as many casual riders as possible.
      
 **2.) Spring and summer promotions**
-   - The number or casual riders significantly increases during the spring months and peaks during the summer. If we offer promotions for annual membership during these times we are        more likely to convert casual riders to annual members. 
+   - The number or casual riders significantly increases during the spring months and peaks during the summer. If we offer promotions for 
+     annual membership during these times we are more likely to convert casual riders to annual members. 
 
 **3.) Host events promoting recreational riding**
    - It is evident that casual riders like to use our bikes recreationally. Hosting different events like fundraisers or friendly       
      competitions will allow causal riders to relate more to the company, making it more likely that they will invest in membership.
      Also, these events are best suited for the weekends when most of our casual riders are using the bikes already and we 
-     could use this time to promote membership by providing incentives four annual members.
+     could use this time to promote membership by providing incentives for annual members.
 
 **4.) Weekend membership**
    - If a casual rider is only using our bikes on the weekends, they may not want to spend money on a full membership. But if there        
