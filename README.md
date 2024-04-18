@@ -4,12 +4,12 @@
 
 ### Summary
 
-This case study on Cyclistic, a bike share company, was my capstone project for the Google Data Analytics Certificate program. My goal is to answer key business questions while following the steps of the data analysis process:  Ask, Prepare, Process,
-Analyze, Share, and Act.
+In this case study, I analyze data from a Chicago based bike share company in order to identify trends in how their customers use bikes differently. Below you will find a full report detailing my findings as I followed the data analysis process: Ask, Prepare, Process,
+Analyze, Share, and Act. I also created a Tableau dashboard and a presentation that summarize my findings.
 
-[Tableau Dashboard](https://public.tableau.com/views/CyclisticBikeShare-CasualRidersvsAnnualMembers/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard: Casual Riders vs Annual Members](https://public.tableau.com/views/CyclisticBikeShare-CasualRidersvsAnnualMembers/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-[Cyclistic Bike Share: Casual Riders vs Annual Members](https://github.com/edbeato/Cyclistic_Case_Study/blob/38735078b1d1ea629bbca451f6cc274538efd605/Casual%20Riders%20vs%20Annual%20Members.pdf)
+[Presentation: Casual Riders vs Annual Members](https://github.com/edbeato/Cyclistic_Case_Study/blob/38735078b1d1ea629bbca451f6cc274538efd605/Casual%20Riders%20vs%20Annual%20Members.pdf)
 
 ## Understanding the differences between casual riders and annual members
 
@@ -232,9 +232,9 @@ One surprising difference is that the **two groups don't share any locations in 
 
 In order to effectively communicate my findings to the key stakeholders, I created two tools:
 
-[Tableau Dashboard](https://public.tableau.com/views/CyclisticBikeShare-CasualRidersvsAnnualMembers/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard: Casual Riders vs Annual Members](https://public.tableau.com/views/CyclisticBikeShare-CasualRidersvsAnnualMembers/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-[Cyclistic Bike Share: Casual Riders vs Annual Members](https://github.com/edbeato/Cyclistic_Case_Study/blob/38735078b1d1ea629bbca451f6cc274538efd605/Casual%20Riders%20vs%20Annual%20Members.pdf)
+[Presentation: Casual Riders vs Annual Members](https://github.com/edbeato/Cyclistic_Case_Study/blob/38735078b1d1ea629bbca451f6cc274538efd605/Casual%20Riders%20vs%20Annual%20Members.pdf))
 
 After viewing the data, here is a summary of **the differences between casual riders and annual members:**
 
