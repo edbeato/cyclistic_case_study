@@ -8,7 +8,7 @@ In this case study, I analyze data from a Chicago based bike share company in or
 
 [Tableau Dashboard: Casual Riders vs Annual Members](https://public.tableau.com/views/CyclisticBikeShare-CasualRidersvsAnnualMembers/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-[Presentation: Casual Riders vs Annual Members](https://github.com/edbeato/Cyclistic_Case_Study/blob/38735078b1d1ea629bbca451f6cc274538efd605/Casual%20Riders%20vs%20Annual%20Members.pdf)
+[Presentation: Casual Riders vs Annual Members](https://github.com/edbeato/Cyclistic_Case_Study/blob/c605562ad0755d5e4f1881fa6c471f6c230f255b/Casual%20Riders%20vs%20Annual%20Members.pdf)
 
 ## Understanding the differences between casual riders and annual members
 
@@ -233,7 +233,7 @@ In order to effectively communicate my findings to the key stakeholders, I creat
 
 [Tableau Dashboard: Casual Riders vs Annual Members](https://public.tableau.com/views/CyclisticBikeShare-CasualRidersvsAnnualMembers/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-[Presentation: Casual Riders vs Annual Members](https://github.com/edbeato/Cyclistic_Case_Study/blob/38735078b1d1ea629bbca451f6cc274538efd605/Casual%20Riders%20vs%20Annual%20Members.pdf))
+[Presentation: Casual Riders vs Annual Members](https://github.com/edbeato/Cyclistic_Case_Study/blob/c605562ad0755d5e4f1881fa6c471f6c230f255b/Casual%20Riders%20vs%20Annual%20Members.pdf)
 
 After viewing the data, here is a summary of **the differences between casual riders and annual members:**
 
