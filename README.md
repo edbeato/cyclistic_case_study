@@ -122,7 +122,7 @@ Since the data was separated by month, I had to upload the it into BigQuery as t
 
 *SQL Query: [Data Exploration](https://github.com/edbeato/Cyclistic_Case_Study/blob/bee04d97adcb51884dd2da881d8a93ef345d419f/2%20-%20Data%20Exploration.sql)*
 
-In order to properly clean the data I want to familiarize myself with it. Here are the observations that I made:
+In order to properly clean the data I wanted to familiarize myself with it. Here are the observations that I made:
 
 1.) The schema tells us all of the column names and the data types. The **ride_id** is our primary key because it is distinctive for each ride. 
 
