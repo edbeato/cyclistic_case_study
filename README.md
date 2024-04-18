@@ -118,6 +118,8 @@ SQL Query: [Data Combining](https://github.com/edbeato/Cyclistic_Case_Study/blob
 
 Since the data was separated by month, I had to upload the it into BigQuery as twleve tables. But rather than writing queries for each month individually, I decided it would be best to create one table with all of the data. This resulted in a table with 5,719,877 rows representing all of the individual trips taken by Cyclistic users in 2023. 
 
+<img width="479" alt="Screenshot 2024-04-17 at 11 31 53 PM" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/01e5d9b6-072e-48a7-a7eb-bbd4fb5d1cc0">
+
 ### Explore the Data
 
 SQL Query: [Data Exploration](https://github.com/edbeato/Cyclistic_Case_Study/blob/bee04d97adcb51884dd2da881d8a93ef345d419f/2%20-%20Data%20Exploration.sql)
