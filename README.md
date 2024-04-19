@@ -110,7 +110,7 @@ The data has been made available by Motivate International Inc. under this [lice
 
 ### Tools
 
-After downloading the files for each month of 2023, I opened each of them in Google Sheets just to get an idea of what the data looked like. Unfortunately some of the files would not open at all because they were too large. This led me to choose BigQuery as my tool to explore, clean, and analyze the data. Once I finished that, I used Tableau to create visualizations to effectively share my findings. 
+The data was separated by month, but I knew that combining it all together would give me the best opportunity to see over arching trends in how casual riders and annual members use the bikes. This led me to choose BigQuery as my tool to explore, clean, and analyze the data. Once I finished that, I used Tableau to create visualizations to effectively share my findings. 
 
 ### Combining the Data
 
