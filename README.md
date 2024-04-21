@@ -1,6 +1,6 @@
 # Cyclistic Bike Share Case Study
 
-<img width="641" alt="pic16" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/65c872b8-5b12-484d-beea-0ae1a3571287">
+<img width="641" alt="pic16" src="https://github.com/edbeato/Cyclistic_Case_Study/assets/163080154/d8e5a8f6-00e2-4e7b-ab7e-5f891c01c21a">
 
 ### Summary
 
