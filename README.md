@@ -6,9 +6,9 @@
 
 In this case study, I analyze data from a Chicago based bike share company in order to identify trends in how their customers use bikes differently. Below you will find a full report where I followed the data analysis process: ask, prepare, process, analyze, share, and act. I also created a Tableau dashboard and a presentation for the stakeholders that summarize my findings.
 
-[Tableau Dashboard: Casual Riders vs Annual Members](https://public.tableau.com/app/profile/eduardo.beato/viz/CyclisticBikeShare_17140993142180/Story1)
+[Tableau Dashboard](https://public.tableau.com/app/profile/eduardo.beato/viz/CyclisticBikeShare_17140993142180/Story1)
 
-[Presentation: Casual Riders vs Annual Members](https://github.com/edbeato/Cyclistic_Case_Study/blob/c605562ad0755d5e4f1881fa6c471f6c230f255b/Casual%20Riders%20vs%20Annual%20Members.pdf)
+[Presentation](https://github.com/edbeato/Cyclistic_Case_Study/blob/c605562ad0755d5e4f1881fa6c471f6c230f255b/Casual%20Riders%20vs%20Annual%20Members.pdf)
 
 ## Understanding the differences between casual riders and annual members
 
@@ -231,9 +231,9 @@ One surprising difference is that the **two groups don't share any locations in 
 
 In order to effectively communicate my findings to the key stakeholders, I created two tools:
 
-[Tableau Dashboard: Casual Riders vs Annual Members](https://public.tableau.com/app/profile/eduardo.beato/viz/CyclisticBikeShare_17140993142180/Story1)
+[Tableau Dashboard](https://public.tableau.com/app/profile/eduardo.beato/viz/CyclisticBikeShare_17140993142180/Story1)
 
-[Presentation: Casual Riders vs Annual Members](https://github.com/edbeato/Cyclistic_Case_Study/blob/c605562ad0755d5e4f1881fa6c471f6c230f255b/Casual%20Riders%20vs%20Annual%20Members.pdf)
+[Presentation](https://github.com/edbeato/Cyclistic_Case_Study/blob/c605562ad0755d5e4f1881fa6c471f6c230f255b/Casual%20Riders%20vs%20Annual%20Members.pdf)
 
 After viewing the data, here is a summary of **the differences between casual riders and annual members:**
 
